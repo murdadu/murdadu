@@ -1,5 +1,7 @@
-## Hi there 👋
+# Halo semua!
 
+Perkenalkan nama saya **Javier Elian**.<br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/javierelian/)ku ya.
 <!--
 **murdadu/murdadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
